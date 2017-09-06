@@ -2,7 +2,7 @@
 ============
 Learn object oriented programming with python, using genomics examples
 
-First encounter with object oriented programming with python.  Lesson website is [here](http://swcarpentry.github.io/shell-novice/).
+First encounter with object oriented programming with python.  Lesson website is [here](https://chiefrydbeck.github.io/Object_oriented_python).
 
 Interested in contributing?  Please see our [Guidelines for Contributors](CONTRIBUTING.md).
 
